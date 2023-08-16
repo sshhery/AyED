@@ -4,9 +4,6 @@
 
 <div align="center"> 
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Fabian-Martinez-Rincon/AyED)
-[![GitHub stars](https://img.shields.io/github/stars/Fabian-Martinez-Rincon/AyED)](https://github.com/Fabian-Martinez-Rincon/AyED/stargazers/)
-[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/Fabian-Martinez-Rincon/AyED)](https://github.com/Fabian-Martinez-Rincon/AyED)
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1700&pause=800&color=28CDF7&center=true&width=635&lines=Algoritmos y Estructuras de Datos"/>
